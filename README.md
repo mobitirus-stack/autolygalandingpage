@@ -1,6 +1,6 @@
 # Autolyga – „Vizitinė“ (vieno puslapio svetainė, pavyzdys)
 
-Grynas HTML + CSS, be framework'o ir be build žingsnio. Visas CSS – `index.html` viduje (~9 KB), JavaScript nėra. Žemėlapis – „Google Maps“ paieškos embed pagal adresą (TODO: kliento oficialus embed).
+Grynas HTML + CSS, be framework'o ir be build žingsnio. Visas CSS – `index.html` viduje (~9 KB), JavaScript nėra. Žemėlapis – kliento oficialus „Google Maps“ embed.
 
 ## Failai
 
@@ -31,9 +31,8 @@ Visi placeholderiai pažymėti `TODO_` (ieškokite failuose):
 |---|---|
 | `TODO_DOMAIN` | `index.html` (canonical, og:url, og:image, JSON-LD), `robots.txt`, `sitemap.xml`, `llms.txt` – pakeisti visur, pvz. „Find & Replace“ |
 | `TODO_HOURS` | darbo laikas („Google“ rodo tik užsidarymą 18:00; dabar placeholderis I–V 09:00–18:00, VI–VII nedirba – patvirtinti): `index.html` (hero `dl`, DUK, kontaktai, lentelė, footer, JSON-LD `openingHoursSpecification`), `llms.txt` |
-| `TODO_EMAIL` | `index.html` kontaktų sąraše (paruoštas komentaras) + JSON-LD `"email"` + `llms.txt` |
+| El. paštas | įrašytas: uabautolyga@gmail.com (kontaktai, JSON-LD, llms.txt) |
 | Rekvizitai | įrašyta: UAB „Autolyga“, įmonės kodas 125515482, PVM kodas LT255154811 (footer, JSON-LD, llms.txt) |
-| `TODO_GEO` / žemėlapis | gauti kliento „Google Maps“ embed kodą: iš jo – koordinatės (`!2d{lng}!3d{lat}`) į JSON-LD `geo`, CID nuoroda į `hasMap`/`sameAs`/mygtukus, oficialus embed į iframe |
 | Aplinkiniai rajonai | JSON-LD `areaServed` – parinkti pagal adresą, patvirtinti su klientu |
 | `TODO_LOGO` | laikinas tipografinis logotipas: `index.html` header'is, `img/logo.svg`, favicon'ai. Gavus logotipą – `brand/logo.*` + `cd tools && npm install && npm run assets` (pataisius `gen-assets.mjs`) |
 | Facebook | pridėti į JSON-LD `sameAs` |

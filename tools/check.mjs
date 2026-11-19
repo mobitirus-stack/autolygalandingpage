@@ -55,8 +55,7 @@ for (const f of ['favicon.ico', 'favicon.svg', 'apple-touch-icon.png', 'icon-192
 ok(!/<script(?! type="application\/ld\+json")/.test(h), 'jokio JS (tik JSON-LD)');
 ok(/<iframe src="https:\/\/(?:www\.google\.com\/maps\/embed|maps\.google\.com\/maps\?)[^"]+" title="[^"]+"[^>]*loading="lazy"/.test(h), 'Google Maps embed su title + lazy');
 ok((h.match(/<blockquote>/g) || []).length >= 3, 'atsiliepimų ištraukos');
-// TODO_GEO: gavus kliento embed kodą – įrašyti geo į JSON-LD ir grąžinti patikrą (g[0].geo)
-ok(g[0].geo === undefined || (g[0].geo && g[0].geo.latitude), 'schema geo (arba TODO_GEO)');
+ok(g[0].geo && g[0].geo.latitude === 54.669974, 'schema geo');
 // WCAG AA kontrastas
 const lum = (x) => { const c = x.replace('#', '').match(/\w\w/g).map((v) => parseInt(v, 16) / 255).map((v) => (v <= 0.03928 ? v / 12.92 : ((v + 0.055) / 1.055) ** 2.4)); return 0.2126 * c[0] + 0.7152 * c[1] + 0.0722 * c[2]; };
 const ratio = (a, b) => { const [x, y] = [lum(a), lum(b)].sort((p, q) => q - p); return (x + 0.05) / (y + 0.05); };

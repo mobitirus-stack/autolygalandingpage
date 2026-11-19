@@ -9,9 +9,11 @@
 - Kategorija: autoservisas (automobilių remontas)
 - Adresas: Vytenio g. 61, 03202 Vilnius, Lietuva (Naujamiestis)
 - Telefonas: +370 686 66412
+- El. paštas: uabautolyga@gmail.com
 - Darbo laikas: pirmadienis–penktadienis 09:00–18:00; šeštadienis ir sekmadienis – nedirba (TODO_HOURS: placeholderis, patvirtinti su klientu)
 - Įvertinimas: 4,7 iš 5 „Google“ (98 atsiliepimai, 2026-11 duomenimis)
-- Žemėlapis: https://www.google.com/maps/search/?api=1&query=Autolyga%2C%20Vytenio%20g.%2061%2C%20Vilnius
+- Koordinatės: 54.669974, 25.2655845
+- Žemėlapis: https://maps.google.com/?cid=12327784843212211228
 - Svetainė: https://TODO_DOMAIN/
 
 ## Paslaugos

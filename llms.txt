@@ -1,0 +1,55 @@
+# Autolyga
+
+> Autolyga autoservisas – automobilių remonto servisas Vilniuje, adresu Vytenio g. 61, 03202 Vilnius (Naujamiestis). Kompiuterinė diagnostika, tepalų ir filtrų keitimas, stabdžių, važiuoklės, pavarų dėžės ir elektros remontas, akumuliatorių keitimas, kondicionierių pildymas. „Google“ įvertinimas 4,7 iš 5 (98 atsiliepimai). Telefonas +370 686 66412.
+
+## Įmonės duomenys
+
+- Pavadinimas: Autolyga
+- Juridinis asmuo: UAB „Autolyga“, įmonės kodas 125515482, PVM kodas LT255154811
+- Kategorija: autoservisas (automobilių remontas)
+- Adresas: Vytenio g. 61, 03202 Vilnius, Lietuva (Naujamiestis)
+- Telefonas: +370 686 66412
+- Darbo laikas: pirmadienis–penktadienis 09:00–18:00; šeštadienis ir sekmadienis – nedirba (TODO_HOURS: placeholderis, patvirtinti su klientu)
+- Įvertinimas: 4,7 iš 5 „Google“ (98 atsiliepimai, 2026-11 duomenimis)
+- Žemėlapis: https://www.google.com/maps/search/?api=1&query=Autolyga%2C%20Vytenio%20g.%2061%2C%20Vilnius
+- Svetainė: https://TODO_DOMAIN/
+
+## Paslaugos
+
+- Kompiuterinė diagnostika: valdymo blokų klaidų nuskaitymas ir jutiklių duomenų analizė gedimo priežasčiai nustatyti.
+- Tepalų keitimas: variklio alyvos ir tepalų filtro keitimas pagal automobilio gamintojo reikalavimus.
+- Oro ir salono filtrų keitimas: filtrų keitimas pagal intervalą arba pajutus kvapą ar susilpnėjus ventiliacijai.
+- Stabdžių remontas: stabdžių kaladėlių, diskų ir stabdžių skysčio keitimas, stabdžių sistemos patikra.
+- Važiuoklės ir vairo remontas: amortizatorių, svirčių, šarnyrų, stabilizatoriaus ir vairo traukių keitimas.
+- Pavarų dėžės remontas: mechaninių ir automatinių pavarų dėžių bei sankabos gedimų diagnostika ir šalinimas.
+- Elektros remontas: elektros gedimų paieška, starterio, generatoriaus, laidų ir apšvietimo remontas.
+- Akumuliatoriaus keitimas: akumuliatoriaus ir įkrovimo sistemos patikra, tinkamo akumuliatoriaus parinkimas ir montavimas.
+- Kondicionieriaus pildymas: kondicionavimo sistemos sandarumo patikra ir šaltnešio pildymas.
+
+## Ką sako klientai?
+
+„Google“ įvertinimas 4,7 iš 5 (98 atsiliepimai, 2026-11 duomenimis). Atsiliepimų ištraukos:
+- „Rekomenduoju! Dirba kokybiškai ir profesionaliai, visad maloniai bendrauja. Ypač vertinu tai, kad padėjo krizinėje situacijoje ir tikrai nueina ekstra mylią dėl kliento. Jautėsi, kad rūpi ne tik greitai sutvarkyti automobilį, bet ir realiai padėti žmogui. Ačiū už pagalbą ir požiūrį :)“ – Gabija G., „Google“
+- „Tik geriausi atsiliepimai! Labai maloniai ir nuoširdžiai bendrauja, greitai priėmė ir puikiai atliko savo darbą. Po suvedimo šiek tiek traukė į šona, tai sukeitė ratus(pasirodo padangos kaltos), pratestavo ir nepatingėjo iki darbo mašinos užvešt. Retai tokių servisų pavyksta rast. Rekomenduoju!“ – Nerijus J., „Google“
+- „Puikūs meistrai, malonus bendravimas. Greitai priėmė ir nustatė problemą, viską greitai sutvarkė. Tikrai nuoširdžiai rekomenduoju!“ – Dovilė S., „Google“
+- „Vienas sąžiningiausių ir patikimiausių autoservisų Vilniuje, o gal net ir Lietuvoje.“ – Aleksas K., „Google“
+
+## DUK
+
+### Kur yra Autolyga autoservisas?
+Autolyga autoservisas yra Vilniuje, adresu Vytenio g. 61, 03202 Vilnius – Naujamiestyje. Maršrutą patogiausia atsidaryti per „Google Maps“ nuorodą šiame puslapyje.
+
+### Kokios Autolyga autoserviso darbo valandos?
+Autolyga autoservisas dirba darbo dienomis nuo 09:00 iki 18:00, savaitgaliais nedirba. Prieš atvykstant rekomenduojame paskambinti telefonu +370 686 66412.
+
+### Ar atliekate kompiuterinę diagnostiką?
+Taip, Autolyga autoservisas atlieka kompiuterinę automobilio diagnostiką: nuskaito valdymo blokų klaidas, peržiūri jutiklių duomenis ir paaiškina, ką jie reiškia. Diagnostika padeda nustatyti gedimo priežastį prieš remontą.
+
+### Ar pildote automobilių kondicionierius?
+Taip, pildome ir remontuojame automobilių kondicionierius. Prieš pildant patikriname sistemos sandarumą, kad šaltnešis vėl greitai nepasišalintų.
+
+### Ar reikia registruotis iš anksto?
+Rekomenduojame registruotis iš anksto telefonu +370 686 66412 – taip suderinsime jums patogų laiką ir galėsime pasiruošti darbams.
+
+Atnaujinta: 2026-11-19
+Cituojant prašome nurodyti šaltinį: Autolyga, https://TODO_DOMAIN/

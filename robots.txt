@@ -1,0 +1,38 @@
+# Autolyga – Vytenio g. 61, 03202 Vilnius
+# Paieškos sistemos ir DI asistentai kviečiami indeksuoti ir cituoti šią svetainę.
+# Santrauka DI sistemoms: https://TODO_DOMAIN/llms.txt
+
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+Sitemap: https://TODO_DOMAIN/sitemap.xml

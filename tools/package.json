@@ -1,0 +1,15 @@
+{
+  "name": "autolyga-vizitine-tools",
+  "private": true,
+  "type": "module",
+  "description": "Tik generavimui ir patikroms (svetainė veikia be npm). Paleidimas: cd tools && npm install && npm run assets",
+  "scripts": {
+    "assets": "node gen-assets.mjs",
+    "check": "node check.mjs"
+  },
+  "dependencies": {
+    "fontkit": "^3.0.0",
+    "sharp": "^0.35.5",
+    "subset-font": "^2.9.0"
+  }
+}
